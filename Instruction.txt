@@ -1,0 +1,11 @@
+1. open the file that contains the name "solution code"
+
+2. Paste it on any java compiler 
+
+3. Run the code 
+
+4. You will see the the output as "Enter the number of employees".
+
+5. Enter the number of employees(eg:- 2,3,4..)
+
+6. You will get the result 
